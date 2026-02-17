@@ -8,9 +8,9 @@ Release:    99%{?dist}
 Summary:    trilliumOS related icons and pictures
 
 Group:      System Environment/Base
-URL:        https://github.com/trilliumos/branding
+URL:        https://github.com/trilliumos/trilliumos-logos
 
-Source0:    %{url}/releases/download/%{version}/%{name}-%{version}.tar.xz
+Source0:    %{url}/archive/refs/tags/%{version}.tar.gz
 
 License:    Licensed only for approved usage, see COPYING for details.
 
