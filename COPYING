@@ -1,9 +1,9 @@
-Rocky Linux and the Rocky Linux logo, either separately or in combination,
-are hereinafter referred to as "Rocky Linux Trademarks" and are trademarks of
-The Rocky Linux Foundation, registered in the United States.
+trilliumOS and the trilliumOS logo, either separately or in combination,
+are hereinafter referred to as "trilliumOS Trademarks" and are trademarks of
+The trilliumOS Foundation, registered in the United States.
 
-The rocky-logos package ("Package") contains images that are or include the
-Rocky Linux Trademarks and Rocky Linux trade dress.  You are granted the right
+The trilliumos-logos package ("Package") contains images that are or include the
+trilliumOS Trademarks and trilliumOS trade dress.  You are granted the right
 to use the Package only during the normal operation of software programs that
 call upon the Package.  No other copyright or trademark license is granted
 herein.
@@ -11,7 +11,7 @@ herein.
 NO WARRANTY.  THIS PACKAGE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
 WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND INTELLECTUAL PROPERTY
-NONINFRINGEMENT ARE DISCLAIMED.  IN NO EVENT SHALL THE ROCKY LINUX PROJECT BE
+NONINFRINGEMENT ARE DISCLAIMED.  IN NO EVENT SHALL THE TRILLIUMOS PROJECT BE
 LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
 CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
 GOODS OR SERVICES; LOSS OF USE, DATA OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
