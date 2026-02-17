@@ -269,8 +269,6 @@ gtk-update-icon-cache %{_datadir}/icons/hicolor &>/dev/null || :
 %{_datadir}/backgrounds/*
 %{_datadir}/gnome-background-properties/desktop-backgrounds-default.xml
 
-%endif
-
 %changelog
 * Tue Feb 17 2026 Shaun Assam <sassam@fedoraproject.org> - 100.4-99
 - Repurposed branding and rebuilt for trilliumOS
