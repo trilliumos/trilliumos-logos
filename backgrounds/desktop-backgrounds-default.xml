@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>trilliumOS Default</name>
+        <filename>/usr/share/backgrounds/jasper-day.jpg</filename>
+        <filename-dark>/usr/share/backgrounds/jasper-night.jpg</filename-dark>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#5d286f</pcolor>
+        <scolor>#25193f</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>trilliumOS Default Time of Day</name>
+        <filename>/usr/share/backgrounds/trilliumos.xml</filename>
+        <options>zoom</options>
+    </wallpaper>
+</wallpapers>

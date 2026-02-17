@@ -1,0 +1,6 @@
+[org.gnome.desktop.background]
+picture-uri='file:///usr/share/backgrounds/jasper-day.jpg'
+picture-uri-dark='file:///usr/share/backgrounds/jasper-night.jpg'
+picture-options='zoom'
+primary-color='#5d286f'
+secondary-color='#25193f'
