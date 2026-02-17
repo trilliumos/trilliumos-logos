@@ -78,7 +78,7 @@ Licensed only for approved usage, see COPYING for details.
 ################################################################################
 # Backgrounds
 mkdir -p $RPM_BUILD_ROOT%{_datadir}/backgrounds/
-for x in backgrounds/*.png backgrounds/*.jpg backgrounds/*.xml ; do
+for x in backgrounds/* ; do
   install -p -m 644 $x $RPM_BUILD_ROOT%{_datadir}/backgrounds/
 done
 
